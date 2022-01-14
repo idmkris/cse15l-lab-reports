@@ -1,3 +1,1 @@
-# CSE15L Lab Reports
-
-Week #1 [Link](lab-report-1-week-2.md)
+Week #2 [Link](lab-report-1-week-2.md)
