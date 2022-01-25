@@ -67,8 +67,8 @@ Now connect to the server with ```ssh``` again and type ```mkdir .ssh. Log out t
 
 ## **Optimization**
 
-We can also optimize remote running by using the command below which can run multiple commands on the same line. For example, in the image below, I used command ```cp``` which copy files to directory. I also used the semicolon after that in the same command to compiles and run the file which saves typing and waiting time.
+We can also optimize remote running by using the command below which can run multiple commands on the same line. For example, in the image below, I used command ```cp``` which copy files to directory. I also used the semicolon after that in the same command to compiles and run the file which saves typing and waiting time. The keystroke of typing command below is ```68``` and it will take extra ```3``` keystrokes(Enter) and waiting time if you enter command separately.
 
 ![Image](Screen Shot 2022-01-13 at 8.55.45 PM.png)
 
-You can also use up-arrow to look for the previous command. For example, if you just type the command ```javac xxx.java``` a couple command lines above. You can press the up-arrow key to enter it without typing it.
+You can also use up-arrow to look for the previous command. For example, if you just type the command ```javac WhereAmI.java``` a couple command lines above. You can press the up-arrow key to enter it without typing it. The keystroke of typing ```javac WhereAmI.java``` is ```18``` and up-arrow is only ```1```.
