@@ -9,7 +9,7 @@ This page will briefly talk about how to set up and connect appropriately to one
 
 First of all, download VS code at [Link](https://code.visualstudio.com) and follow the instructions to install it on the compuer. After that, you should see a window as below.
 
-![Image](Screen Shot 2022-01-13 at 7.44.27 PM.png)
+![alt text](Screen Shot 2022-01-13 at 7.44.27 PM.png)
 
 If you have windows, you will need to install a program called OpenSSH at [Link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). 
 
