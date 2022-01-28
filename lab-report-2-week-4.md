@@ -35,7 +35,7 @@ It should not return the url since there is a space between the ```]``` and   ``
 &nbsp;
 
 ## **#3**
-!Image(Screen Shot 2022-01-27 at 9.28.41 PM.png)
+![Image](Screen Shot 2022-01-27 at 9.28.41 PM.png)
 
 Link to the file of the failure-inducing imput: [Link](https://github.com/ucsd-cse15l-w22/markdown-parse/blob/main/test-file5.md)
 
