@@ -3,12 +3,13 @@
 I first change the directory to ~/.ssh using the command ``cd ~/.ssh`` and later open the file with the following code ``open -t config``. I used the Mac app TextEdit to edit the file then put in the code
 
 &nbsp;
- ``
-    
+
     Host ieng6
         HostName ieng6.ucsd.edu
         User cs15lwi22auw
-`` 
+ 
+&nbsp;
+ 
 like below:
 
 ![image](Screen Shot 2022-02-10 at 8.33.27 PM.png)
