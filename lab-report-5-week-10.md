@@ -3,9 +3,9 @@
 ## **Test 1**
 ![image](Screen Shot 2022-03-10 at 6.18.46 PM.png)
 
-I found the bug by using ``diff`` on the result. The result shown by the given implementation is ``[]`` while my implementation returns ``IndexOutOfBounds`` error. Therefore, my implementation is wrong since return an empty arraylist.
+I found the bug by using ``diff`` on the result. The result shown by the given implementation is ``[]`` while my implementation returns ``IndexOutOfBounds`` error. Therefore, my implementation is wrong since it should return an empty arraylist.
 
-The bug is that my while loop would run out of the bounds in the method ``findClosedParen``. To fix the bug, I will add another condition in the while loop of my implementation. I will changed it from ``while (openParenCount > 0)`` to ``while (openParenCount > 0 && closeParen < markdown.length())``.
+The bug is that my while loop would cause OutOfBounds error in the method ``findClosedParen``. To fix the bug, I will add another condition in the while loop of my implementation. I will changed it from ``while (openParenCount > 0)`` to ``while (openParenCount > 0 && closeParen < markdown.length())``.
 
 ## **Test 2**
 ![image](Screen Shot 2022-03-10 at 6.34.57 PM.png)
